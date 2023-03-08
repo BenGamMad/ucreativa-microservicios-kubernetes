@@ -25,7 +25,8 @@ kubectl get services
 
 ## Architecture Diagram
 
-![Microservice Application](/architecture.png "Microservice Application")
+![Architecture](https://user-images.githubusercontent.com/108495798/223874585-7fff7f51-7afd-412f-ac0f-969e98adb98d.png)
+
 
 
 
