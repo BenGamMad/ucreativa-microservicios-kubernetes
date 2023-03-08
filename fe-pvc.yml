@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: frontend-nginx
+  name: wordpress
 spec:
   accessModes:
     - ReadWriteOnce
