@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx
+data:
+  NGINX_HOST: benjamingamboanginx.com
+  NGINX_PORT: '80'
+  MYSQL_DATABASE: mysql
+  MYSQL_RANDOM_ROOT_PASSWORD: '123123'
+  MYSQL_USER: benjamin
+  MYSQL_PASSWORD: '321321'
